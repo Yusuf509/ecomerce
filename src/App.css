@@ -1,0 +1,38 @@
+/* theme dark */
+.bg-black{
+  background-color: rgb(91, 91, 91);
+}
+.bg-light-black{
+  background-color: #3d3d3d !important;
+}
+.text-black{
+  color: rgb(81, 80, 80);
+}
+.text-light-black{
+  color: #262626;
+}
+.bg-dark-primary{
+  background-color: #fcbc73 !important;
+}
+.text-dark-primary{
+  color: #fcbc73 !important;
+}
+
+/* theme light */
+.bg-light{
+  background-color: white;
+}
+.bg-light-2{
+  background-color: #dadcde;
+}
+.bg-light-primary{
+  background-color: #191659 !important;
+}
+.text-light-primary{
+  color: #191659 !important;
+}
+
+
+.react-tel-input input{
+  width: 100% !important;
+}

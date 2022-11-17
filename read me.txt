@@ -1,0 +1,6 @@
+Les import utiliser dans ce projet:
+npm install react-bootstrap bootstrap
+npm i @reach/router
+npm i react-use-cart
+npm i react-icons
+npm i react-filter-search
